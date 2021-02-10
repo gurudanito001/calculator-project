@@ -1,0 +1,76 @@
+.body {
+    background-image: linear-gradient(to right, #AE68C0 , #ED8C7B);
+}
+
+.container{
+    width: 320px;
+    height: auto;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 100px;
+    margin-bottom: 70px;
+    background-color: cornsilk;
+    border: tomato 1px;
+    border-radius: 10px;
+    padding: 5px;
+}
+
+ 
+
+.fig{
+    font-size: 16px;
+    text-align: right;
+    height: auto;
+    padding-top: 10px;
+    margin-bottom: 0px;
+}
+
+.fig2{
+    color: white;
+    font-size: 42px;
+    text-align: right;
+}
+
+.blackDiv{
+    background-color: black;
+    color: white;
+    height: 120px;
+    width: auto;
+    padding-top: 10px;
+    text-align: right;
+}
+.blackDiv input{
+    background-color: black;
+    text-align: right;
+    font-size: 40px;
+    color: white;
+    border: 0px;
+    caret-color: transparent;
+}
+
+input[type="text"]:focus{
+    border: none;
+    box-shadow: none;
+    outline: 0 none;
+    color: white;
+}
+.boxf6, .boxf3, .boxf5, .boxfc, .boxfd, .boxfe, .boxf7, .boxf8, .boxf9, .boxp, .boxpurple {
+    height: 80px;
+    font-size: 16px;
+    text-align: center;
+    padding: 25px 0;
+    border-radius: 0;
+    outline: 0px;
+}
+
+.boxf6 {background-color: #f6f6f6;}
+.boxf3 {background-color: #F3F3F3;}
+.boxf5 {background-color: #F5F5F5;}
+.boxfc {background-color: #FcFcFc;}
+.boxfd {background-color: #FdFdFd;}
+.boxfe {background-color: #FeFeFe;}
+.boxf7 {background-color: #F7F7F7;}
+.boxf8 {background-color: #F8F8F8;}
+.boxf9 {background-color: #F9F9F9;}
+.boxp {background-color: #E62F89; color: white; }
+.boxpurple {background-color: #8D52DE; color: white;}
